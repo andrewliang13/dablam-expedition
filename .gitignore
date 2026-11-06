@@ -1,0 +1,10 @@
+.next
+node_modules
+*.tsbuildinfo
+.DS_Store
+.claude
+.impeccable/live
+.impeccable/review
+.impeccable/mocks
+.impeccable/payload.json
+.impeccable/config.local.json

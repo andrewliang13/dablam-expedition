@@ -1,0 +1,16 @@
+{
+  "w": 933,
+  "h": 1220,
+  "metresPerPixel": 33.8,
+  "west": 86.69998168945312,
+  "east": 87.02030181884766,
+  "north": 28.01016414897992,
+  "south": 27.639740194861716,
+  "min": 1778,
+  "max": 8753,
+  "maxAt": [
+    656,
+    69
+  ],
+  "source": "AWS Terrain Tiles (Terrarium, z12) — Mapzen/SRTM/others, https://registry.opendata.aws/terrain-tiles/"
+}
